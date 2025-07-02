@@ -10,3 +10,8 @@ Agent System Plans, Allocates and Executes Work
 Agent System Iteratively Clarifies Output
 <br>​
 Agent Executes Action ​
+
+Three major components of an agent that are:​
+Prompt 
+Memory 
+Tools 
