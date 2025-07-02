@@ -12,6 +12,9 @@ Agent System Iteratively Clarifies Output
 Agent Executes Action ​
 
 Three major components of an agent that are:​
-Prompt 
-Memory 
+<br>
+Prompt
+<br> 
+Memory
+<br> 
 Tools 
